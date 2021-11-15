@@ -1,0 +1,2 @@
+# Affirmations.Android
+Projeto App
