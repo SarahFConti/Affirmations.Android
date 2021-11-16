@@ -1,2 +1,3 @@
 # Affirmations.Android
-Projeto App
+Projeto mobile criando listas - RecyclerView
+<p> 👩‍💻 </p>
